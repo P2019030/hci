@@ -32,4 +32,4 @@ Chris Vlassis P2019030
   Button Concept</a> by P2019030 (<a href="https://codepen.io/p2019030">@p2019030</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+"https://static.codepen.io/assets/embed/ei.js"
