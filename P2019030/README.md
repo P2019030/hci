@@ -22,10 +22,10 @@
 
  # Παραδοτέο 2
   * ## Άσκηση Προγραμματισμού 
-   ###Image processing
-  >
- **ΑΝΑΦΟΡΑ**:Πήγα στην ενότητα img:hover{}και άλλαξα απο μέσα το sepia() και εβαλα το contrast στο 2 άλλαξα το opacity στο 0.8 για να φένεται πιο αχνά και επίσης το hue-rotate(deg) και το ρύθμισα στο 50 οπου μαζι με το contrast εβγαινε ένα ωραιο μωβ χρώμα. 
- >
+   ### Image processing
+  
+ >**ΑΝΑΦΟΡΑ**:Πήγα στην ενότητα img:hover{}και άλλαξα απο μέσα το sepia() και εβαλα το contrast στο 2 άλλαξα το opacity στο 0.8 για να φένεται πιο αχνά και επίσης το hue->rotate(deg) και το ρύθμισα στο 50 οπου μαζι με το contrast εβγαινε ένα ωραιο μωβ χρώμα. 
+ 
  <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="css,result" data-user="p2019030" data-slug-hash="YzWvbow" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="image filter 1">
   <span>See the Pen <a href="https://codepen.io/p2019030/pen/YzWvbow">
   image filter 1</a> by P2019030 (<a href="https://codepen.io/p2019030">@p2019030</a>)
@@ -35,7 +35,7 @@
   
  # Παραδοτέο 3
   * ## Άσκηση Γραμμής Εντολών
-   ###Set-up the main dependencies and demonstrate your base system
+   ### Set-up the main dependencies and demonstrate your base system
 >
 **ΑΝΑΦΟΡΑ**:κατέβασα το ubuntu 20 και πρωτα το VMware.Στο installation άλλαξα το ονομα μου και το εκανα το ΑΜ μου.Επειτα εκανα list τα files μου με την εντολη ls 
 και μετα  τα dot files με την ενοτλη ls -A.Προσπαθησα να βρω πως να κανω display το shell configuration file αλλα δεν τα καταφερα και επισης για να
