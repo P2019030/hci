@@ -23,6 +23,7 @@
  # Παραδοτέο 2
   * ## Άσκηση Προγραμματισμού 
   > Image processing
+  >
  ΑΝΑΦΟΡΑ:Πήγα στην ενότητα img:hover{}και άλλαξα απο μέσα το sepia() και εβαλα το contrast στο 2 άλλαξα το opacity στο 0.8 για να φένεται πιο αχνά και επίσης το hue-rotate(deg) και το ρύθμισα στο 50 οπου μαζι με το contrast εβγαινε ένα ωραιο μωβ χρώμα. 
  <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="css,result" data-user="p2019030" data-slug-hash="YzWvbow" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="image filter 1">
   <span>See the Pen <a href="https://codepen.io/p2019030/pen/YzWvbow">
