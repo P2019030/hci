@@ -34,7 +34,7 @@
 
 <<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="css,result" data-user="p2019030" data-slug-hash="YzWveQK" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Button Concept">
   <span>See the Pen <a href="https://codepen.io/p2019030/pen/YzWveQK">
-  Button Concept</a> by P2019030 (<a href="https://codepen.io/p2019030">@p2019030</a>)
+  Button Concept</a> by P2019030 (<a href="https://codepen.io/p2019030" target="_blank">@p2019030</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 
