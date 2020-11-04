@@ -15,6 +15,10 @@
 | 11. | αίτημα ενσωμάτωσης (CSCW, IV) |11
 | 12. | Τελική αναφορά* |12
 
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
 
  # Παραδοτέο 3
   * ## Ασκηση Γραμμής Εντολών
