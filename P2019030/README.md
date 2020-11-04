@@ -32,9 +32,9 @@
 ΑΝΑΦΟΡΑ:Η λειτουργία που επέλεξα να γίνετε όταν κάποιος πατάει το κουμπι είναι να  βγαινει μια καινουργια σελίδα με τις οδηγίες του μαθήματος σε ένα νέο παράθυρο.Ετσι στο href πρόσθεσα το link απο τις οδηγιες και για να εμφανίζεται σε ενα νεο παράθυρο χρησιμοποιησα την εντολή target="_blank".
 
 
-<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="css,result" data-user="p2019030" data-slug-hash="YzWveQK" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Button Concept">
+<<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="css,result" data-user="p2019030" data-slug-hash="YzWveQK" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Button Concept">
   <span>See the Pen <a href="https://codepen.io/p2019030/pen/YzWveQK">
   Button Concept</a> by P2019030 (<a href="https://codepen.io/p2019030">@p2019030</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-[codepen link](https://static.codepen.io/assets/embed/ei.js)
+
