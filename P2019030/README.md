@@ -6,8 +6,8 @@
 
 | Εβδομάδα* | Παραδοτέο |
 | --- | --- |
-1| 1. | Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα* | 1
-1| 2. | **Άσκηση προγραμματισμού**: [Image processing](#παραδοτέο-2) |2
+| 1. | Φορκ του αποθετηρίου και δημιουργία της σελίδας της αναφοράς με τα προσωπικά στοιχεία σας, της σύνοψης με αυτόν τον πίνακα περιεχομένων, και συγγραφή της εισαγωγής με περιγραφή των αναγκών και των στόχων σας για το αντίστοιχο μάθημα* | 1
+| 2. | **Άσκηση προγραμματισμού**: [Image processing](#παραδοτέο-2) |2
 | 3. | **Άσκηση γραμμής εντολών**: [_set-up the main dependencies and demonstrate your base system_](#παραδοτέο-3) |3
 | 4. | **Άσκηση προγραμματισμού**: [_Button excercise._](#παραδοτέο-4) |4
 | 5. | Άσκηση γραμμής εντολών |5
@@ -22,7 +22,13 @@
 
  # Παραδοτέο 2
   * ## Άσκηση Προγραμματισμού
- ΑΝΑΦΟΡΑ:
+ ΑΝΑΦΟΡΑ:Πήγα στην ενότητα img:hover{}και άλλαξα απο μέσα το sepia() και εβαλα το contrast στο 2 άλλαξα το opacity στο 0.8 για να φένεται πιο αχνά και επίσης το hue-rotate(deg) και το ρύθμισα στο 50 οπου μαζι με το contrast εβγαινε ένα ωραιο μωβ χρώμα. 
+ <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="css,result" data-user="p2019030" data-slug-hash="YzWvbow" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="image filter 1">
+  <span>See the Pen <a href="https://codepen.io/p2019030/pen/YzWvbow">
+  image filter 1</a> by P2019030 (<a href="https://codepen.io/p2019030">@p2019030</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+
   
  # Παραδοτέο 3
   * ## Άσκηση Γραμμής Εντολών
