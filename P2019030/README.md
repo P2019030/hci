@@ -25,7 +25,7 @@
 ΑΝΑΦΟΡΑ:κατέβασα το ubuntu 20 και πρωτα το VMware.Στο installation άλλαξα το ονομα μου και το εκανα το ΑΜ μου.Επειτα εκανα list τα files μου με την εντολη ls 
 και μετα  τα dot files με την ενοτλη ls -A.Προσπαθησα να βρω πως να κανω display το shell configuration file αλλα δεν τα καταφερα και επισης για να
 κανω display το system information δεν χρησιμοποιησα την εντολη PS1 αλλα εγκατεστησα το inxi και χρησιμοποιησα  την εντολη inxi -Fx για να κανω display το hardware + software
-του υπολογιστη μου.   https://asciinema.org/a/xmqMVZE6FYTnVCIeW2jaR0Xee
+του υπολογιστη μου.   [asciinema link!](https://asciinema.org/a/xmqMVZE6FYTnVCIeW2jaR0Xee)
 
  # Παραδοτέο 4  
   * ## Ασκηση Προγραμματισμου
@@ -37,4 +37,4 @@
   Button Concept</a> by P2019030 (<a href="https://codepen.io/p2019030">@p2019030</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-"https://static.codepen.io/assets/embed/ei.js"
+[codepen link!](https://static.codepen.io/assets/embed/ei.js)
